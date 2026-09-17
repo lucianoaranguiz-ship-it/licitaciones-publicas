@@ -1,0 +1,10 @@
+# Versiones clavadas y probadas end-to-end en Python 3.12 (Streamlit Cloud).
+# El modelo se serializa con estas versiones; cargarlo con otras puede fallar.
+# Si reentrenas, confirma que train_export.py imprime estas mismas.
+streamlit==1.42.0
+scikit-learn==1.6.1
+xgboost==2.1.4
+pandas==2.2.3
+numpy==2.2.2
+plotly==6.0.0
+skops==0.11.0

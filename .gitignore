@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+demo.csv
+Licitaciones_TI_ChileCompra.csv
+Propuestas_Unidades.csv
